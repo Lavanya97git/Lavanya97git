@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 
 - 🧠 Currently learning AWS, Terraform, Ansible, Jenkins, Docker, and Kubernetes
-- 🛠️ Hands-on experience in **Azure DevOps CI/CD pipelines** with **SonarCloud** integration
+- 🛠️ Hands-on experience of 1.6 years in **Azure DevOps CI/CD pipelines** with **SonarCloud** integration
 - 🌐 3 years of experience in **Ethernet network planning and designing**
 - 🔄 Passionate about automation, cloud technologies, and continuous learning
 
