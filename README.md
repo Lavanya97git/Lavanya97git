@@ -16,14 +16,17 @@
 - Used **YAML pipelines**, triggers, and release pipelines
 ### 🔹 [Terraform Scripts to automate](https://github.com/Lavanya97git/terraform101.git)
 - Building infrastructure using **Terraform** under multiple clouds(AWS, Azure)
-### 🔹 [Docker Projects for Containerization (Ongoing)]
-- Learning to containerize applications using Docker with hands-on practice on images, containers, and Dockerfiles
+### 🔹 [Docker Projects for Containerization (https://github.com/Lavanya97git/Docker_01.git)]
+- Created Dockerfiles and docker-compose.yml files to build custom images, run containers, and automate deployments using GitHub Actions pipelines.
+- Integrated with CI/CD in docker-githubactions (https://github.com/Lavanya97git/mslearn-tailspin-game-web_02.git).
+### 🔹 [Kubernetes Projects for Orchestration (ongoing)]
+- Learning to deploy and manage containerized applications using Kubernetes with hands-on practice on Pods, Services, Deployments, and YAML configurations
 
 
 ## 🔧 Tools & Technologies
 
 - Cloud: **Azure**, Learning **AWS**
-- DevOps: **Azure Pipelines**, **SonarCloud**, **Jenkins**, (Exploring GitHub Actions)
+- DevOps: **Azure Pipelines**, **SonarCloud**, **GitHub Actions**
 - Infra: **Terraform**, **Ansible**
 - Containers: **Docker**, **Kubernetes**
 - Scripting: **Shell**, **YAML**
