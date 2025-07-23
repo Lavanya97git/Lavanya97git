@@ -1,9 +1,9 @@
 👋 Hi, I'm Lavanya
 
-🎯 DevOps Enthusiast | 5+ Years in IT | Learning AWS & Azure DevOps
+🎯 DevOps Engineer | 5+ Years in IT | Learning multiple Cloud DevOps
 ## 👨‍💻 About Me
 
-- 🧠 Currently learning AWS, Terraform, Ansible, Jenkins, Docker, and Kubernetes
+- 🧠 Currently learning Terraform with AWS, Ansible, Jenkins, Docker, and Kubernetes
 - 🛠️ Hands-on experience of approx 2 years in **Azure DevOps CI/CD pipelines** with **SonarCloud** integration
 - 🌐 3 years of experience in **Ethernet network planning and designing**
 - 🔄 Passionate about automation, cloud technologies, and continuous learning
@@ -16,9 +16,9 @@
 - Used **YAML pipelines**, triggers, and release pipelines
 ### 🔹 [Terraform Scripts to automate](https://github.com/Lavanya97git/terraform101.git)
 - Building infrastructure using **Terraform** under multiple clouds(AWS, Azure)
-### 🔹 [Docker Projects for Containerization (https://github.com/Lavanya97git/Docker_01.git)]
+### 🔹 [Docker Projects for Containerization](https://github.com/Lavanya97git/Docker_01.git)
 - Created Dockerfiles and docker-compose.yml files to build custom images, run containers, and automate deployments using GitHub Actions pipelines.
-- Integrated with CI/CD in docker-githubactions (https://github.com/Lavanya97git/mslearn-tailspin-game-web_02.git).
+- Integrated with CI/CD in [docker-githubactions](https://github.com/Lavanya97git/mslearn-tailspin-game-web_02.git).
 ### 🔹 [Kubernetes Projects for Orchestration (ongoing)]
 - Learning to deploy and manage containerized applications using Kubernetes with hands-on practice on Pods, Services, Deployments, and YAML configurations
 
