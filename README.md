@@ -1,11 +1,11 @@
 👋 Hi, I'm Lavanya
 
-🎯 DevOps Engineer | 7 Years in IT | Learning multiple Cloud DevOps
+🎯 DevOps Engineer | 7.1 Years in IT | Learning multiple Cloud DevOps
 ## 👨‍💻 About Me
 
 - 🧠 Currently learning Terraform with AWS, Ansible, Docker, and Kubernetes
 - 🛠️ Hands-on experience of approx. 3 years in **Azure DevOps CI/CD pipelines with GitHub, SonarCloud integration, and Terraform-based Infrastructure as Code (IaC) for reliable Azure deployments**.
-- 🛠️ Hands-on experience of approx. 1.5 years in **Jenkins CI, JFrog Artifactory, GitHub administration, and Linux/Windows environments for build automation and continuous integration**.
+- 🛠️ Hands-on experience of approx. 1.8 years in **Jenkins CI/CD, JFrog Artifactory, GitHub administration, and Linux/Windows environments for build automation and continuous integration, Integration of Wiz, X-ray & coverity scan reports generation**.
 - 🌐 2 years of experience in **Ethernet network planning and designing**
 - 🔄 Passionate about automation, cloud technologies, and continuous learning
 
@@ -33,11 +33,11 @@
 - DevOps: **Azure Pipelines**, **GitHub Actions**, **Jenkins**
 - Infra: **Terraform**, **Ansible**
 - Containers: **Docker**, **Kubernetes**
-- Scripting: **Shell**, **YAML**, **Groovy**
-- Code Quality/Analysis: **SonarCloud**, **X-ray**, **Coverity**
+- Scripting: **powershell**, **YAML**, **Groovy**
+- Code Quality/Analysis: **SonarCloud**, **X-ray**, **Coverity**, **Wiz**
 - Networking: Ethernet planning & designing
 
-Driven by curiosity and a passion for continuous improvement, I am currently deepening my expertise in DevOps—focusing on both AWS and Azure cloud platforms. I believe in the power of learning to unlock new opportunities and keep pace with the ever-evolving tech landscape.
+Driven by curiosity and a passion for continuous improvement, I am currently deepening my expertise in End-to-End DevOps on both AWS and Azure cloud platforms. I believe in the power of learning to unlock new opportunities and keep pace with the ever-evolving tech landscape.
 
 - 🔭 I’m currently working at TCS
 - 💡 "In the world of technology, the greatest edge is a willingness to keep learning." 
